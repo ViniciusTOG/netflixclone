@@ -93,6 +93,7 @@ export const Feature = styled(Container)`
   flex-direction: column;
   align-items: normal;
   width: 50%;
+  height: fit-content;
 
   @media (max-width: 1100px) {
     display: none;
