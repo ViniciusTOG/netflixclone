@@ -17,6 +17,7 @@ const firebaseConfig = {
 };
 
 const firebase = window.firebase.initializeApp(firebaseConfig);
+console.log(firebase)
 
 
 
